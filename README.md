@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/GHcJZLc/github-banner.jpg" alt="github-banner">
+  <img src="./images/github_banner.jpeg" alt="GitHub Banner">
 </p>
 
 <p align="center">
@@ -7,17 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/debarghamitraroy/debarghamitraroy">
-  <img src="https://badges.pufler.dev/years/debarghamitraroy">
-  <img src="https://badges.pufler.dev/updated/debarghamitraroy/debarghamitraroy">
-  <img src="https://badges.pufler.dev/created/debarghamitraroy/debarghamitraroy">
-  <img src="https://badges.pufler.dev/repos/debarghamitraroy">
-  <img src="https://badges.pufler.dev/commits/monthly/debarghamitraroy">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debarghamitraroy">
-  <a href="https://wakatime.com/@0aaa9a42-3350-4791-a9ed-83b85adae54a"><img src="https://wakatime.com/badge/user/0aaa9a42-3350-4791-a9ed-83b85adae54a.svg" alt="Total time coded since Mar 29 2022" /></a>
+  <img src="https://komarev.com/ghpvc/?username=debarghamitraroy&label=Profile%20Visits" alt="Profile Visits">
+  <img src="https://img.shields.io/github/followers/debarghamitraroy?style=flat&logo=github&label=Followers" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/debarghamitraroy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github&label=Stars" alt="GitHub Stars">
+  <a href="https://wakatime.com/@debarghamitraroy"><img src="https://wakatime.com/badge/user/0aaa9a42-3350-4791-a9ed-83b85adae54a.svg" alt="Total time coded since 29th March, 2022" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/cat-coding.gif" alt="cat-coding" max-width="500px"/>
+  <img src="./images/cat_coding.gif" alt="Cat Coding" max-width="500px"/>
 </p>
 
 # Connect with me
@@ -151,5 +144,5 @@
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./images/marquee.svg"/>
 
 <p align="center">
-  <img src="./images/bye.gif" max-width="500px"/>
+  <img src="./images/bye.gif" alt="Good Bye!" max-width="500px"/>
 </p>
