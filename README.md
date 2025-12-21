@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=debarghamitraroy&theme=discord&no-bg=true"/>
+    <img src="https://github-trophies.vercel.app/?username=debarghamitraroy&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 <p align="center">
@@ -98,7 +101,7 @@
 # About Me
 
 - 🔭 I have completed my B.Tech from Jalpaiguri Government Engineering College
-- 🌱 I’m a all time learner
+- 🌱 I’m an all-time learner
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m currently focusing on Machine Learning & Deep Learning
 - 🥅 2025 Goals: _Eat, Sleep, Code, Repeat_
@@ -139,7 +142,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kohl-one.vercel.app?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-70cnir3wf.vercel.app?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./images/marquee.svg"/>
@@ -147,3 +150,4 @@
 <p align="center">
   <img src="./images/bye.gif" alt="Good Bye!" max-width="500px"/>
 </p>
+
