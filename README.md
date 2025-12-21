@@ -17,7 +17,7 @@
     <img src="https://github-trophies.vercel.app/?username=debarghamitraroy&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
 </p>
 
 <p align="center">
@@ -150,4 +150,5 @@
 <p align="center">
   <img src="./images/bye.gif" alt="Good Bye!" max-width="500px"/>
 </p>
+
 
