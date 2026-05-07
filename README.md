@@ -10,12 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=debarghamitraroy&label=Profile%20Visits" alt="Profile Visits">
   <img src="https://img.shields.io/github/followers/debarghamitraroy?style=flat&logo=github&label=Followers" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/debarghamitraroy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github&label=Stars" alt="GitHub Stars">
-  <a href="https://wakatime.com/@debarghamitraroy"><img src="https://wakatime.com/badge/user/0aaa9a42-3350-4791-a9ed-83b85adae54a.svg" alt="Total time coded since 29th March, 2022" /></a>
+  <a href="https://wakatime.com/@0aaa9a42-3350-4791-a9ed-83b85adae54a"><img src="https://wakatime.com/badge/user/0aaa9a42-3350-4791-a9ed-83b85adae54a.svg" alt="Total time coded since Mar 29 2022" /></a>
 </p>
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=debarghamitraroy&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
+
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
 </p>
@@ -40,7 +41,8 @@
   ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23E60012?style=for-the-badge)
-  ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFDA4B)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=black)
   <!-- ![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
@@ -59,7 +61,9 @@
 
   ![Numpy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/matplotlib-%2300BFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
+  ![Matplotlib](https://img.shields.io/badge/matplotlib-%2300BFFF?style=for-the-badge&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/seaborn-%235C7DA1?style=for-the-badge)
+  ![Plotly](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=black)
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black)
   ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
 
@@ -72,7 +76,7 @@
 
   ![VS Code](https://img.shields.io/badge/vs%20code-%232F80ED?style=for-the-badge)
   ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=black)
-  ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=black)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=black)
   ![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=black)
   ![Colab](https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
@@ -81,7 +85,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![PyPi](https://img.shields.io/badge/pypi-%233775A9?style=for-the-badge&logo=pypi&logoColor=white)
+  ![PyPi](https://img.shields.io/badge/pypi-%233775A9?style=for-the-badge&logo=pypi&logoColor=%23FFDA4B)
 
 - ## Operating Systems
 
@@ -92,7 +96,7 @@
 # Programming Profiles
 
 [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/debarghamitraroy/)
-[![Code360](https://img.shields.io/badge/code360-%23DD6620?style=for-the-badge&logo=codingninjas&logoColor=black)](https://www.naukri.com/code360/profile/ryzen)
+[![Code360](https://img.shields.io/badge/code360-%23DD6620?style=for-the-badge&logo=codingninjas&logoColor=black)](https://www.naukri.com/code360/profile/debarghamitra/)
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforgeeks-%232F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black)](https://www.geeksforgeeks.org/user/debarghamitraroy/)
 [![CodeForces](https://img.shields.io/badge/codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/Debargha-Mitra-Roy)
 [![CodeChef](https://img.shields.io/badge/codechef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/debarghamitra)
@@ -100,11 +104,11 @@
 
 # About Me
 
-- 🔭 I have completed my B.Tech from Jalpaiguri Government Engineering College
+- 🔭 I am currently pursuing my M.Tech from National Institute of Technology Durgapur
 - 🌱 I’m an all-time learner
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m currently focusing on Machine Learning & Deep Learning
-- 🥅 2025 Goals: _Eat, Sleep, Code, Repeat_
+- 🤔 I’m currently focusing on Reinforcement Learning & Explainable AI (xAI)
+- 🥅 2026 Goals: _Eat, Sleep, Code, Repeat_
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ One day I will make it happen
 - 💬 Ask me about anything
@@ -142,7 +146,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-70cnir3wf.vercel.app?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-debarghamitraroy-ob769qhjx.vercel.app?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./images/marquee.svg"/>
@@ -150,5 +154,3 @@
 <p align="center">
   <img src="./images/bye.gif" alt="Good Bye!" max-width="500px"/>
 </p>
-
-
