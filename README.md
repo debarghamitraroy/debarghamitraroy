@@ -146,7 +146,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-debarghamitraroy-ob769qhjx.vercel.app?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="debarghamitraroy's GitHub Streak" /></a>
+
+<a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img alt="debarghamitraroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=debarghamitraroy&bg_color=141321&color=a3f5ee&line=fe428e&point=f8d847&area=true&hide_border=true&card_width=800&card_height=200" /></a>
+
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./images/marquee.svg"/>
