@@ -66,6 +66,8 @@
   ![Plotly](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=black)
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black)
   ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
+  ![Keras](https://img.shields.io/badge/keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 
 <!-- - ## Databases
 
@@ -90,6 +92,7 @@
 - ## Operating Systems
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white)
   ![Linux](https://img.shields.io/badge/LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge)
 
