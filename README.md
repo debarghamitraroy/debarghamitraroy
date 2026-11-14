@@ -42,7 +42,7 @@
   ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23E60012?style=for-the-badge)
   ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFDA4B)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=black)
+  <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=black) -->
   <!-- ![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
@@ -65,14 +65,14 @@
   ![Seaborn](https://img.shields.io/badge/seaborn-%235C7DA1?style=for-the-badge)
   ![Plotly](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=black)
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black)
-  ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
-  ![Keras](https://img.shields.io/badge/keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
+  <!-- ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
+  ![Keras](https://img.shields.io/badge/keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white) -->
 
 
-<!-- - ## Databases
+- ## Databases
 
   ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=black) -->
+  <!-- ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=black) -->
 
 - ## Editors
 
@@ -86,6 +86,7 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+  ![UV](https://img.shields.io/badge/UV-%23DE5FE9?style=for-the-badge&logo=uv&logoColor=%231E1E2A)
   ![Anaconda](https://img.shields.io/badge/anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
   ![PyPi](https://img.shields.io/badge/pypi-%233775A9?style=for-the-badge&logo=pypi&logoColor=%23FFDA4B)
 
@@ -119,10 +120,10 @@
 # My GitHub Stats
 
 <p align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=debarghamitraroy&count_private=true&show_icons=true&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=debarghamitraroy&count_private=true&show_icons=true&theme=radical&hide_border=true" style="margin-right:20px"/>
-  <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debarghamitraroy&layout=compact&langs_count=16&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debarghamitraroy&layout=compact&langs_count=16&theme=radical&hide_border=true" style="margin-left:40px"/>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=debarghamitraroy&layout=compact&langs_count=6&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=debarghamitraroy&layout=compact&langs_count=6&theme=radical&hide_border=true" style="margin-right:20px"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=debarghamitraroy&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api?username=debarghamitraroy&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" style="margin-left:40px"/>
   </a>
 </p>
 
@@ -151,7 +152,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=debarghamitraroy&theme=radical&hide_border=true&card_width=800&card_height=200" alt="debarghamitraroy's GitHub Streak" /></a>
 
-  <a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img alt="debarghamitraroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=debarghamitraroy&bg_color=141321&color=a3f5ee&line=fe428e&point=f8d847&area=true&hide_border=true&card_width=800&card_height=200" /></a>
+  <!-- <a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img alt="debarghamitraroy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=debarghamitraroy&bg_color=141321&color=a3f5ee&line=fe428e&point=f8d847&area=true&hide_border=true&card_width=800&card_height=200" /></a> -->
 
 </p>
 
